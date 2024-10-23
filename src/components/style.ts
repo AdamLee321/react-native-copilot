@@ -26,7 +26,7 @@ export const styles = StyleSheet.create({
     paddingTop: 15,
     paddingHorizontal: 15,
     backgroundColor: "#fff",
-    borderRadius: 3,
+    borderRadius: 8,
     overflow: "hidden",
   },
   tooltipText: {},
